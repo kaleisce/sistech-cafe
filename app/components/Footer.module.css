@@ -1,0 +1,24 @@
+.footer {
+  background: #e91e8c;
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  font-size: 1.3rem;
+  margin-bottom: 0.75rem;
+}
+
+.icons a {
+  color: white;
+  text-decoration: none;
+}
+
+.credit {
+  font-size: 0.85rem;
+  margin: 0;
+}

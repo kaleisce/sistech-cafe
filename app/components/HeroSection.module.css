@@ -1,0 +1,37 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: #e91e8c;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.ctaBtn {
+  border: 1px solid #e91e8c;
+  color: #e91e8c;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.ctaBtn:hover {
+  background: #e91e8c;
+  color: white;
+}
