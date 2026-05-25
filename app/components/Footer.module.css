@@ -1,15 +1,14 @@
 .footer {
-  background: #e91e8c;
+  background: #ff5c9e;
   color: white;
   text-align: center;
-  padding: 1.5rem;
+  padding: 2rem;
 }
 
 .icons {
   display: flex;
   justify-content: center;
   gap: 1.5rem;
-  font-size: 1.3rem;
   margin-bottom: 0.75rem;
 }
 
